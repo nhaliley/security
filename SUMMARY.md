@@ -6,4 +6,5 @@
 * [Untitled](untitled-2.md)
 * [Untitled](untitled-3.md)
 * [Untitled](untitled-4.md)
-python_fundamentals.md
+
+* [python_fundamentals](python_fundamentals.md)
